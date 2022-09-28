@@ -22,8 +22,6 @@ Ejemplo
 
 Descarga el código que necesites seleccionando la Branch dentro de este repositorio y ábrelo con tu editor de código favorito. 
 
-![Descarga](image.png)
-
 
 ---
 ⌨️ con :blue_heart: 
