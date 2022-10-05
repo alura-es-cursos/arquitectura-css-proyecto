@@ -22,7 +22,7 @@ Descarga el código que necesites seleccionando la Branch dentro de este reposit
 
 
 ---
-⌨️ con :blue_heart: 
+ Con :blue_heart: 
 - [Alura Latam](https://www.aluracursos.com/) 
 - [Instructora: Jeanmarie Quijada](https://github.com/JeanmarieAluraLatam) 
 
